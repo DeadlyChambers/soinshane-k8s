@@ -45,3 +45,7 @@ They are the atomic unit of Kubernetes. When a Deployment is created, k8s create
 A node can have multiple pods.
 
 **Kubelet** : This is the process responsible for communicating between the K8s control plane and the node; it manages the pods and containers. 
+
+### Node, Pod, and Kubectl
+
+<img src="https://user-images.githubusercontent.com/6717936/159146295-a0a41082-67f0-43a2-80cd-2eb7b341e84f.svg" width="50%" style="background-color:white;"></img> 
